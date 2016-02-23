@@ -1,6 +1,6 @@
 # Road Conditions App
 
-MEAN Stack Application for showing road conditions collected by embedded sensors on cars. Road conditions are stored to MongoDB using REST Api. This repository is solely 
+MEAN Stack Application for showing road conditions collected by embedded sensors on cars. Road conditions are stored to MongoDB using REST Api. This repository is solely for web application of this project and doesn't contain code for embedded sensors.
 
 Based on [starter application](https://github.com/scotch-io/starter-node-angular) made by scotch.io.
 
